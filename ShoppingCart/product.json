@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S22 Ultra",
+        "img": "https://thanhdatmobile.vn/wp-content/uploads/2022/11/936943183.jpeg",
+        "price": 29000000,
+        "quantity": 2
+    },
+    {
+        "id": 2,
+        "name": "Iphone 14 pro max",
+        "img": "https://bizweb.dktcdn.net/100/463/685/products/fs-fcc006dd-226b-4f21-a046-1ccdc1a268a7-c13e0207-1c70-4783-9e38-bcf3d71010fb-090f59fe-ddf7-464f-9365-4bc5948da1f9.png?v=1713857431890",
+        "price": 35000000,
+        "quantity": 2
+    },
+    {
+        "id": 3,
+        "name": "Redmi Note 13 pro",
+        "img": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2024/02/20/redmi-note-13-pro.png",
+        "price": 35000000,
+        "quantity": 2
+    },
+    {
+        "id": 4,
+        "name": "VSmart Aris",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/230413/vsmart-aris-xanhduong-600x600-200x200.jpg",
+        "price": 5000000,
+        "quantity": 2
+    },
+    {
+        "id": 5,
+        "name": "Oppo Reno 10 5G",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/305695/oppo-reno10-blue-thumbnew-600x600.jpg",
+        "price": 29000000,
+        "quantity": 2
+    },
+    {
+        "id": 6,
+        "name": "Iphone 15 pro max",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+        "price": 29590000,
+        "quantity": 2
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy S24 Ultra",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumb-600x600.jpg",
+        "price": 40000000,
+        "quantity": 2
+    },
+    {
+        "id": 8,
+        "name": "Samsung Galaxy S8+ plus",
+        "img": "https://cdn.viettablet.com/images/thumbnails/480/516/detailed/26/samsung-galaxy-s8-plus-cu-viettablet.jpg",
+        "price": 4790000,
+        "quantity": 2
+    }
+]
